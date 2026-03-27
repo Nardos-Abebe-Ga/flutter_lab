@@ -1,0 +1,11 @@
+# Flutter/Dart generated files
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+**/.gradle/
+**/Pods/
+
+# Logs and system files
+*.log
+*.tmp
+.DS_Store
